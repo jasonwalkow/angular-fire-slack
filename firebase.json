@@ -1,0 +1,4 @@
+{
+  "firebase": "angularfire-jdw",
+  "public": "dist"
+}
